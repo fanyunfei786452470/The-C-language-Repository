@@ -8,14 +8,14 @@
             "name": "gcc - 生成和调试活动文件",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/第4章 函数与程序结构/4.3 外部变量test.o",
+            "program": "${workspaceFolder}/第4章 函数与程序结构/4.3 外部变量/test.o",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
             "environment": [],
             "externalConsole": false,
             "MIMode": "lldb",
-            "preLaunchTask": "gcc build active file"
+            "preLaunchTask": "C/C++: gcc build active file"
         }
     ]
 }
